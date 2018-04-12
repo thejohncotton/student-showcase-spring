@@ -111,7 +111,7 @@ margin-right: 2%;
   max-width: 960px;
   margin-left: auto;
   margin-right: auto;
-  
+
 }
 
 .cell {
@@ -131,7 +131,7 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 
  .sean {
-  
+
  }
 
 
@@ -181,8 +181,19 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 
  .ashley {
+   align-items: center;
+   justify-content: center;
+   margin: 50px auto;
+   color: #FF4500;
+   padding-top: 50px;
+   
+}
+ .ashley img {
+   max-width: 200px;
+    max-height: auto;
+    }
 
- }
+
 
 
 
