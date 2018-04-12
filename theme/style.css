@@ -111,7 +111,7 @@ margin-right: 2%;
   max-width: 960px;
   margin-left: auto;
   margin-right: auto;
-  
+
 }
 
 .cell {
@@ -131,7 +131,7 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 
  .sean {
-  
+
  }
 
 
@@ -164,11 +164,31 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
  }
 
-
+/* my area */
  .jarvan {
+background-color: Black ;
+border-radius: 40px;
+padding: 0 10px;
+ }
 
+ .jarvan h1 {
+   font-family: 'Anton', sans-serif;
+   color: #7437BC;
 
  }
+
+.jarvan img {
+  width: 100%;
+  border-radius: 100000px;
+
+}
+
+.jarvan p {
+  font-family: 'Cute Font', cursive;
+  color: #7437BC;
+  font-size: 32px;
+  text-align: center;
+}
 
  .denise {
 
