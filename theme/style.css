@@ -264,8 +264,19 @@ padding: 0 10px;
 
 
  .ashley {
+   align-items: center;
+   justify-content: center;
+   margin: 50px auto;
+   color: #FF4500;
+   padding-top: 50px;
+   
+}
+ .ashley img {
+   max-width: 200px;
+    max-height: auto;
+    }
 
- }
+
 
 
 
