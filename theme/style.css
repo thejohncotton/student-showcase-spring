@@ -111,7 +111,7 @@ margin-right: 2%;
   max-width: 960px;
   margin-left: auto;
   margin-right: auto;
-  
+
 }
 
 .cell {
@@ -131,7 +131,7 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 
  .sean {
-  
+
  }
 
 
@@ -185,9 +185,36 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
  }
 
 
+/*My area */
+#jimmy {
+  background-image: url('../mountain.png');
+  background-repeat:no-repeat;
+}
 
- .jimmy {
+.jimmy {
+  background-color: #5E2E1B;
+}
 
+ .jimmy h2 {
+   font-family: 'Lobster', cursive;
+   font-size: 35px;
+   color: #394F48;
+   margin-top: 5px;
+ }
+ .jimmy a {
+   font-family: 'Cookie', cursive;
+   font-size:20px;
+   color: #C3E891;
+ }
+
+ .jimmy img {
+   border-radius: 50%;
+   height: 330px;
+   width: 100%;
+ }
+ .jimmy .img2 {
+   height: 20px;
+   background-color: #C3E891;
  }
 
 
