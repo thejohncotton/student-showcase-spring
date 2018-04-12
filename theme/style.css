@@ -95,6 +95,28 @@ h1, h2, h3, h4, h5, h6, p, li {
   font-style: normal;
   font-weight: 100;
 }
+
+.content {
+margin-left: 2%;
+margin-top: 2%;
+margin-right: 2%;
+}
+
+
+#intro {
+  text-align:center;
+  margin-bottom: 7%;
+}
+.table {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.cell {
+  text-align: center;
+}
 /*
 ADD CUSTOM STYLES IN YOUR DIV AREAS!
  */
@@ -109,7 +131,7 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 
  .sean {
-
+  
  }
 
 
@@ -168,7 +190,7 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
  }
 
- 
+
 
  .clay {
 
