@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin|Lobster|Barlow|Kreon:700');
+h1, h2, h3, h4, h5, h6, p, li {
+  font-family: Barlow;
+}
+
+#title {
+  font-family: Kreon;
+  letter-spacing: 200%;
+  display: block;
+  font-size: 300%;
+  line-height: 90%;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-image: url(/class-photo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.header h1 {
+  display: block;
+  max-width: 750px;
+  text-align: center;
+  color: white;
+  font-size: 400%;
+  margin-top: 0;
+}
+
+
+@keyframes colorchange {
+  0% {
+    background: Baby Blue
+  }
+  25% {
+    background: Blood Orange
+  }
+  50% {
+    background: Blue-Gray;
+  }
+  75% {
+    background: Violet;
+  }
+  100% {
+    background: Aqua;
+  }
+}
+
+@-webkit-keyframes colorchange {
+  0% {
+    background: Baby Blue;
+  }
+  25% {
+    background: Blood Orange;
+  }
+  50% {
+    background: Blue-Gray;
+  }
+  75% {
+    background: Violet;
+  }
+  100% {
+    background: Aqua;
+  }
+}
+
+
+#Fa {
+  font-size: 30px;
+  color: black;
+}
+
+#Fr:hover {
+  -webkit-animation: bounce 1s;
+  animation: bounce 1s;
+}
+
+#Fr {
+  font-size: 30px;
+  color: black;
+}
+
+#Fa:hover {
+  -webkit-animation: bounce 1s;
+  animation: bounce 1s;
+}
+
+@font-face {
+  font-family: "cursive";
+  src: url("../fonts/cursive.ttf");
+  font-style: normal;
+  font-weight: 100;
+}
+/*
+ADD CUSTOM STYLES IN YOUR DIV AREAS!
+ */
+
+ .example {
+
+   background-color: purple;
+   margin:5px;
+   padding:5px;
+ }
+
+
+
+ .sean {
+
+ }
+
+
+
+ .megan {
+
+ }
+
+
+
+ .eric {
+
+ }
+
+
+
+ .shannon {
+
+ }
+
+
+
+ .shalisa {
+
+ }
+
+
+
+ .frank {
+
+ }
+
+
+ .jarvan {
+
+
+ }
+
+ .denise {
+
+ }
+
+
+ .darrell {
+
+ }
+
+
+ .ashley {
+
+ }
+
+
+
+ .jimmy {
+
+ }
+
+ 
+
+ .clay {
+
+ }
