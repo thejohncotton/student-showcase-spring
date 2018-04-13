@@ -224,6 +224,7 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 /* my area */
 
+<<<<<<< HEAD
  .frank {
    background-image: url('../GOVOLS.JPG');
    background-repeat: no-repeat;
@@ -233,6 +234,27 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
  .frank {
    background-color: white;
    border-radius: 10px;
+=======
+#frank {
+  background-image: url('../GOVOLS.JPG');
+}
+
+.frank {
+  background-color: black;
+  border-radius: 40px;
+  padding: 0 10px;
+}
+
+ .frank img {
+   height: 400px;
+   width: 350px;
+   border-radius: 5000px;
+ }
+
+ .frank h2 {
+   font-family:fantasy;
+   color: #red;
+>>>>>>> 30bbffefdbb687e0f30649d2500d41cba17f2235
  }
 
   .frank img {
