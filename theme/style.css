@@ -310,11 +310,51 @@ button port a:hover {
 .shalisa a:hover {
   color: orange;
 }
+  
+/* my area */
+
+#frank {
+  background-image: url('../GOVOLS.JPG');
+}
+
+.frank {
+  background-color: black;
+  border-radius: 40px;
+  padding: 0 10px;
+}
+
 
 .frank img {
   height: 200px;
   width: 150px;
 }
+
+
+ .frank h2 {
+   font-family:fantasy;
+   color: #red;
+
+ }
+
+  .frank img {
+    margin: 0 auto;
+    width: 75%;
+    border-radius: 100%;
+    display: block;
+  }
+
+  .frank h2 {
+    font-family:fantasy;
+    color: red;
+    margin-top: 10px;
+  }
+
+  .frank a {
+    color: white;
+    text-decoration: none;
+  }
+
+
 
 /* my area */
 
@@ -377,8 +417,11 @@ padding: 5px;
   padding-top: 50px;
   background-color: #A9A9A9;
 }
-
-.ashley h2 {
+ .ashley img {
+   max-width: 200px;
+    max-height: auto;
+    }
+ .ashley h2 {
   font-family: fantasy;
   font-size: 20px;
   color: #FF4500;
@@ -390,7 +433,6 @@ padding: 5px;
   max-height: auto;
   border-radius: 8px;
 }
-
 
 
 /*My area */
