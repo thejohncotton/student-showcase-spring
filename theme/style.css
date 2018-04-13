@@ -259,8 +259,12 @@ padding: 0 10px;
 }
 
  .denise {
+   background-color: #333;
+   border-radius: 10%
 
  }
+.denise h2{ color: white;}
+.denise img{width: 50%; border-radius: 50%}
 
 
  .darrell {
