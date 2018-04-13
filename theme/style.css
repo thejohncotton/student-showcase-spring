@@ -186,14 +186,24 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
    margin: 50px auto;
    color: #FF4500;
    padding-top: 50px;
-   
+   background-color:#A9A9A9;
 }
+
+.ashley h2{
+  font-family: fantasy;
+  padding-top: 5px;
+}
+
+
  .ashley img {
-   max-width: 200px;
-    max-height: auto;
+   max-width: 190px;
+   max-height: auto;
+   border-radius: 8px;
     }
 
 
+
+}
 
 
 
