@@ -181,7 +181,7 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
  #eric {
    background-image: url('../pexel.jpeg');
  }
- 
+
  .eric img {
   height: 200px;
   width: 150px;
@@ -194,7 +194,7 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
    border-radius: 10px;
  }
  .port {
-   
+
    border: 2px solid black;
    background-color: greenyellow;
    border-radius: 10px;
@@ -222,10 +222,38 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
  }
 
 
+/* my area */
 
  .frank {
-
+   background-image: url('../GOVOLS.JPG');
+   background-repeat: no-repeat;
+   background-size: cover;
  }
+
+ .frank {
+   background-color: white;
+   border-radius: 10px;
+ }
+
+  .frank img {
+    margin: 0 auto;
+    width: 75%;
+    border-radius: 100%;
+    display: block;
+  }
+
+  .frank h2 {
+    font-family:fantasy;
+    color: red;
+    margin-top: 10px;
+  }
+
+  .frank a {
+    color: white;
+    text-decoration: none;
+  }
+
+
 
 /* my area */
  .jarvan {
@@ -269,7 +297,7 @@ padding: 0 10px;
    margin: 50px auto;
    color: #FF4500;
    padding-top: 50px;
-   
+
 }
  .ashley img {
    max-width: 200px;
