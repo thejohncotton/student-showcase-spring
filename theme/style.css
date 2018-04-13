@@ -257,6 +257,7 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
     background-repeat: no-repeat;
     background-size:cover;
     border: 1px solid black;
+ }
 .shannon h1 {
    font-family: Georgia, sans-serif;
    font-weight: bold;
@@ -272,7 +273,7 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 .shannon a {
   color: black;
   background-color: white;
-
+}
 .btn {
   border: 2px solid #000;
   background-color: #000;
@@ -296,7 +297,7 @@ button port a:hover {
   color: white;
   text-decoration: none;
 
-
+}
 .shalisa {
   background-color: lightgrey;
   border-style: groove;
@@ -332,7 +333,7 @@ button port a:hover {
 
  .frank h2 {
    font-family:fantasy;
-   color: #red;
+   color: red;
 
  }
 
