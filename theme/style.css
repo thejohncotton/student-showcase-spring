@@ -111,7 +111,7 @@ margin-right: 2%;
   max-width: 960px;
   margin-left: auto;
   margin-right: auto;
-  
+
 }
 
 .cell {
@@ -131,7 +131,7 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 
  .sean {
-  
+
  }
 
 
@@ -176,10 +176,18 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 
  .darrell {
-
+background-color: springgreen;
+padding: 5px;
  }
-
-
+ .darrell h2 {
+   margin-top: 10px;
+ }
+.darrell img{
+  width: 50%;
+}
+.darrell a {
+  display: block;
+}
  .ashley {
 
  }
