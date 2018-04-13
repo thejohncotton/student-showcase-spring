@@ -218,9 +218,13 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 
  .shalisa {
+background-color: lightgrey;
+border-style:groove;
+text-align:center;
 
  }
-
+.shalisa h3{color:teal;}
+.shalisa a:hover{color:orange;}
 
 
  .frank img {
