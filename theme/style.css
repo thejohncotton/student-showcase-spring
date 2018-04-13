@@ -137,14 +137,77 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 
  .megan {
+   padding: 10px;
+   background-color: #324650;
+   border-radius: 10px;
+   text-align: center;
+   text-transform: lowercase;
+   font-family: Raleway, Roboto, sans-serif;
+   font-size: 16px;
+   display: block;
+   margin: 0 auto;
+   height: 350px;
+   width: 425px;
 
  }
 
-
-
- .eric {
-
+ .megan img {
+   height: 180px;
+   width: 170px;
+   margin-left: 120px;
+   border-radius: 10px;
+   border: #FEFAF9 2px solid;
+   display: block;
+   margin-top: 20px;
+   margin-bottom: 20px;
  }
+
+ .megan h1 {
+   font-family: Raleway, Roboto, sans-serif;
+   color: #FEFAF9;
+   display: block;
+ }
+
+ .megan a {
+   color: #FEFAF9;
+ }
+
+ .megan a:active {
+    background-color: #FEFAF9;
+}
+
+
+
+ #eric {
+   background-image: url('../pexel.jpeg');
+ }
+ 
+ .eric img {
+  height: 200px;
+  width: 150px;
+  border-radius: 50%;
+ }
+ .btn {
+   border: 2px solid #000;
+   background-color: #000;
+   color: white;
+   border-radius: 10px;
+ }
+ .port {
+   
+   border: 2px solid black;
+   background-color: greenyellow;
+   border-radius: 10px;
+  }
+  .eric port a {
+    color: black;
+    font-weight: bolder;
+  }
+  button port a:hover {
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+  }
 
 
 
@@ -164,11 +227,31 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
  }
 
-
+/* my area */
  .jarvan {
+background-color: Black ;
+border-radius: 40px;
+padding: 0 10px;
+ }
 
+ .jarvan h1 {
+   font-family: 'Anton', sans-serif;
+   color: #7437BC;
 
  }
+
+.jarvan img {
+  width: 100%;
+  border-radius: 100000px;
+
+}
+
+.jarvan p {
+  font-family: 'Cute Font', cursive;
+  color: #7437BC;
+  font-size: 32px;
+  text-align: center;
+}
 
  .denise {
 
@@ -181,8 +264,19 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 
  .ashley {
+   align-items: center;
+   justify-content: center;
+   margin: 50px auto;
+   color: #FF4500;
+   padding-top: 50px;
+   
+}
+ .ashley img {
+   max-width: 200px;
+    max-height: auto;
+    }
 
- }
+
 
 
 /*My area */
