@@ -171,10 +171,10 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
  }
 .denise {
    background-color: #333;
-
+   border-radius: 10%
 
  }
- .denise h2{ color: white;}
+.denise h2{ color: white;}
 .denise img{width: 50%; border-radius: 50%}
 
 
