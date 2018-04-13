@@ -109,6 +109,7 @@ h1, h2, h3, h4, h5, h6, p, li {
   max-width: 960px;
   margin-left: auto;
   margin-right: auto;
+
 }
 
 .cell {
@@ -152,6 +153,7 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
   letter-spacing: 1px;
   margin: auto 2px 5px;
 }
+
 
 .seancard {
   display: flex;
@@ -335,7 +337,19 @@ button port a:hover {
   border-radius: 50%
 }
 
-.darrell {}
+ .darrell {
+background-color: springgreen;
+padding: 5px;
+ }
+ .darrell h2 {
+   margin-top: 10px;
+ }
+.darrell img{
+  width: 50%;
+}
+.darrell a {
+  display: block;
+}
 
 .ashley {
   align-items: center;
@@ -359,7 +373,7 @@ button port a:hover {
   border-radius: 8px;
 }
 
-}
+
 
 /*My area */
 
@@ -395,5 +409,6 @@ button port a:hover {
   height: 20px;
   background-color: #C3E891;
 }
+
 
 .clay {}
