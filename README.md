@@ -8,6 +8,5 @@ You can view the website live [here:](http://twp3.netlify.com)
 Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 
 <!-- Example -->
-John Cotton
-+ [Follow on Github](https://github.com/thejohncotton)
-
+Denise Langford
++ [Follow on Github](https://github.com/mdlangford)
