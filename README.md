@@ -12,3 +12,6 @@ John Cotton
 + [Follow on Github](https://github.com/thejohncotton)
 Shannon Hartin
 + [Follow on Github](https://github.com/svhartin/)
+Denise Langford
++ [Follow on Github](https://github.com/mdlangford)
+
