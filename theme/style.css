@@ -111,7 +111,7 @@ margin-right: 2%;
   max-width: 960px;
   margin-left: auto;
   margin-right: auto;
-  
+
 }
 
 .cell {
@@ -131,7 +131,7 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 
  .sean {
-  
+
  }
 
 
@@ -155,9 +155,13 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 
  .shalisa {
+background-color: lightgrey;
+border-style:groove;
+text-align:center;
 
  }
-
+.shalisa h3{color:teal;}
+.shalisa a:hover{color:orange;}
 
 
  .frank {
