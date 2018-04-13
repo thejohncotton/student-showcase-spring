@@ -181,7 +181,7 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
  #eric {
    background-image: url('../pexel.jpeg');
  }
- 
+
  .eric img {
   height: 200px;
   width: 150px;
@@ -194,7 +194,7 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
    border-radius: 10px;
  }
  .port {
-   
+
    border: 2px solid black;
    background-color: greenyellow;
    border-radius: 10px;
@@ -223,8 +223,9 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 
 
- .frank {
-
+ .frank img {
+   height: 200px;
+   width: 150px;
  }
 
 /* my area */
