@@ -154,7 +154,6 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
   margin: auto 2px 5px;
 }
 
-
 .seancard {
   display: flex;
   flex-direction: column;
@@ -253,6 +252,27 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
   border-radius: 50%;
 }
 
+ .shannon {
+    background: url("../Unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    border: 1px solid black;
+.shannon h1 {
+   font-family: Georgia, sans-serif;
+   font-weight: bold;
+   color: white;
+   width: 100%;
+ }
+
+.shannon img{
+  width:75%;
+
+}
+
+.shannon a {
+  color: black;
+  background-color: white;
+
 .btn {
   border: 2px solid #000;
   background-color: #000;
@@ -275,9 +295,7 @@ button port a:hover {
   background-color: blue;
   color: white;
   text-decoration: none;
-}
 
-.shannon {}
 
 .shalisa {
   background-color: lightgrey;
