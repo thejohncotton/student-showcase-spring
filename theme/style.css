@@ -111,7 +111,7 @@ margin-right: 2%;
   max-width: 960px;
   margin-left: auto;
   margin-right: auto;
-  
+
 }
 
 .cell {
@@ -131,7 +131,7 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 
  .sean {
-  
+
  }
 
 
@@ -169,10 +169,13 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 
  }
+.denise {
+   background-color: #333;
 
- .denise {
 
  }
+ .denise h2{ color: white;}
+.denise img{width: 50%; border-radius: 50%}
 
 
  .darrell {
