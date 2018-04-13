@@ -10,4 +10,8 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 <!-- Example -->
 John Cotton
 + [Follow on Github](https://github.com/thejohncotton)
+Shannon Hartin
++ [Follow on Github](https://github.com/svhartin/)
+Denise Langford
++ [Follow on Github](https://github.com/mdlangford)
 
