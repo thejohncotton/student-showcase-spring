@@ -183,9 +183,36 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
 
 
 
- .eric {
-
+ #eric {
+   background-image: url('../pexel.jpeg');
  }
+ 
+ .eric img {
+  height: 200px;
+  width: 150px;
+  border-radius: 50%;
+ }
+ .btn {
+   border: 2px solid #000;
+   background-color: #000;
+   color: white;
+   border-radius: 10px;
+ }
+ .port {
+   
+   border: 2px solid black;
+   background-color: greenyellow;
+   border-radius: 10px;
+  }
+  .eric port a {
+    color: black;
+    font-weight: bolder;
+  }
+  button port a:hover {
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+  }
 
 
 
