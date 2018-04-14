@@ -11,3 +11,5 @@ Be sure to follow our modified GitHub workflow for all pull requests. Good luck!
 John Cotton
 + [Follow on Github](https://github.com/thejohncotton)
 
+Megan Bond
++ [Follow on Github](https://github.com/meganjoy/)

@@ -144,22 +144,27 @@ ADD CUSTOM STYLES IN YOUR DIV AREAS!
    text-transform: lowercase;
    font-family: Raleway, Roboto, sans-serif;
    font-size: 16px;
-   display: block;
-   margin: 0 auto;
-   height: 350px;
-   width: 425px;
+   display: flex;
+   /* margin: 0 auto; */
+   overflow: hidden;
+   width: 32%;
+   height: auto;
+   flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
 
  }
 
  .megan img {
    height: 180px;
    width: 170px;
-   margin-left: 120px;
+   /* margin-left: 60px; */
    border-radius: 10px;
    border: #FEFAF9 2px solid;
    display: block;
-   margin-top: 20px;
-   margin-bottom: 20px;
+   margin-top: 5px;
+   margin-bottom: 15px;
  }
 
  .megan h1 {
